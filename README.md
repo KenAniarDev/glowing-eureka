@@ -8,9 +8,10 @@
 
 ### JavaScript Frameworks
 
-1. 
-2. 
-3. 
+1.
+2.
+3.
+
 
 ### IDE
 
